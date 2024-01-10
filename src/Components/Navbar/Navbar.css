@@ -1,0 +1,22 @@
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-container img {
+  height: 160px;
+}
+.nav-container h1 {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px 0 20px 0;
+  color: #454545;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+.nav-container h1 span {
+  text-align: right;
+  margin-right: -50px;
+}

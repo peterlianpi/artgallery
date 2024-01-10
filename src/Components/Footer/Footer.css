@@ -1,0 +1,16 @@
+/* Footer.css */
+
+.footer {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer p {
+  font-size: 13px;
+  color: rgb(104, 101, 96);
+}
